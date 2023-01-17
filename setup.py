@@ -67,7 +67,7 @@ setup(
     install_requires=[
         "bitarray>=2.4.0,<3",
         "eth-abi>=3.0.1",
-        "git+https://github.com/mrtruongleo/eth-keyfile.git",
+        "eth-keyfile-x @ git+https://github.com/mrtruongleo/eth-keyfile.git",
         "eth-keys>=0.4.0,<0.5",
         "eth-rlp>=0.3.0,<1",
         "eth-utils>=2.0.0,<3",
